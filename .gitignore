@@ -14,3 +14,10 @@ xcode/*
 *.so
 .DS_Store
 Makefile.local
+agama.egg-info/not-zip-safe
+agama.egg-info/PKG-INFO
+agama.egg-info/dependency_links.txt
+agama.egg-info/SOURCES.txt
+*.txt
+build/*
+dist/agama-1.0-py3.8-macosx-11.1-arm64.egg
